@@ -10,8 +10,18 @@
 		<title>Vite App</title>
 	</head>
 	<body>
-		<h1>WEB WITH VITE</h1>
-		<!-- <img src="./assets/images/cute-cat.webp" alt="" /> -->
+		<div class="password-generator">
+			<input type="text" class="password" id="password" placeholder="P4$5W0RD!" readonly />
+			<div>
+			  <label for="range" class="range-label">LENGTH: <span id="length-range">8</span></label>
+			</div>
+			<div class="range-container">
+			  <span>4</span>
+			  <input id="range" type="range" class="range-input" min="4" max="32" step="1" value="8" />
+			  <span>32</span>
+			</div>
+			<button id="button-password" class="button">Generate Password</button>
+		  </div>
 		<script type="module" src="./js/index.js"></script>
 	</body>
 </html>

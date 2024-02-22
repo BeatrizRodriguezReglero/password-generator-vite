@@ -3,13 +3,14 @@ body{
     background-color: rgb(4, 8, 55);
     display: flex;
     align-items: center;
-   justify-content: center;
-   color: white;
+   	justify-content: center;
+   	color: white;
+	font-family:'DM Mono', monospace; ;
    
 }
 .password-generator{
     
-    padding: 20px;
+    padding: 100px 20px;
     width: 95%;
     max-width: 500px;
     margin-left: auto;
@@ -30,7 +31,7 @@ body{
     font-size: 20px;
     font-family: inherit;
   }
-  .range-container {
+.range-container {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -42,22 +43,22 @@ body{
     border-radius: 15px;
     font-size: 18px;
     margin-bottom: 30px;
-  }
-  .range-label {
+}
+.range-label {
     display: block;
     letter-spacing: 4px;
     margin-bottom: 20px;
     margin-top: 20px;
-  }
+}
   
-  .range-input {
+.range-input {
     height: 10px;
     width: 80%;
    
     accent-color: rgb(255, 115, 0);
-  }
+}
   
-  .button {
+.button {
     height: 60px;
     width: 100%;
     border: none;
@@ -69,10 +70,10 @@ body{
     letter-spacing: 4px;
     cursor: pointer;
     transition: transform 0.2s, background-color 0.2s , box-shadow 0.2s;
-  }
+}
   
-  .button:hover {
+.button:hover {
     transform: scale(1.05);
     background-color: rgb(255, 115, 0);
     box-shadow: 0 4px 4px rgb(184, 84, 2);
-  }
+}

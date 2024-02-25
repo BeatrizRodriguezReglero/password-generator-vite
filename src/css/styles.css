@@ -5,12 +5,11 @@ body{
     align-items: center;
    	justify-content: center;
    	color: white;
-	font-family:'DM Mono', monospace; ;
+	font-family:'DM Mono', monospace;
    
 }
 .password-generator{
-    
-    padding: 100px 20px;
+    padding: 110px 20px;
     width: 95%;
     max-width: 500px;
     margin-left: auto;

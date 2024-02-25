@@ -9,11 +9,11 @@
 
 ## Descripción 📑
 
-El juego 'piedra, papel y tijera' de toda la vida y un modo avanzado
+Un generador de contraseñas
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-En este proyecto hemos puesto en práctica el atributo DATA
+En este proyecto hemos puesto en práctica como localizar los elementos del HTML y generar eventos de escucha
 
 ## Tecnologías 🛠
 
@@ -27,9 +27,8 @@ En este proyecto hemos puesto en práctica el atributo DATA
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/rock-paper-scissors-vite-js/main/src/assets/images/simple-mode.png)
-![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/rock-paper-scissors-vite-js/main/src/assets/images/screen-game.png)
-![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/rock-paper-scissors-vite-js/main/src/assets/images/advanced-mode.png)
+![Captura del proyecto](https://raw.githubusercontent.com/BeatrizRodriguezReglero/password-generator-vite/main/src/assets/images/password-hover.png)
+
 
 
 ## Autor ✒️
